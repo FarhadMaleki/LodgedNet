@@ -2,7 +2,7 @@
 
 LodgedNet is an architecture for crop lodging prediction from UAV-acquired images of wheat and canola using a DCNN augmented with handcrafted texture features. The paper will be available soon.
 
-[LodgedNet](figures/architecture.png)
+![LodgedNet](figures/architecture.png)
 
 ## Getting Started
 The proposed architecture has been designed to work with 5-channel data: red, blue, green, red edge, and near infrared.
