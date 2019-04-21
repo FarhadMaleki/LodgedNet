@@ -1,0 +1,5 @@
+numpy==1.15.4
+pandas==0.24.1
+torch==1.0.0
+torchvision==0.2.1
+skimage==0.14.2
